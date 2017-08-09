@@ -2,7 +2,7 @@
 
 [Lab 651](http://lab651.com/) 
 
-[Tech.mn article on Lab 651](https://tech.mn/news/2017/06/09/st-paul-based-lab651-keystone-automation-for-joint-iot-venture/)
+[St. Paul-Based Lab651 & Keystone Automation Form Joint IoT Venture](https://tech.mn/news/2017/06/09/st-paul-based-lab651-keystone-automation-for-joint-iot-venture/)
 
  - Collaborating with three others, our team created an application to act as a Content Management System for users of devices created by Lab 651. This app will allow the admin and users to login, facilitate communication with
         contacts associated with each device, and alter the status and threshold of the device.
