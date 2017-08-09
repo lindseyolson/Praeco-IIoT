@@ -1,6 +1,6 @@
 ## Praeco-IIoT
 
-[Lab 651] (http://lab651.com/)
+[Lab 651](http://lab651.com/)
 ⋅⋅* https://tech.mn/news/2017/06/09/st-paul-based-lab651-keystone-automation-for-joint-iot-venture/
 
  - Collaborating with three others, our team created an application to act as a Content Management System for users of devices created by Lab 651. This app will allow the admin and users to login, facilitate communication with
